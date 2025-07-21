@@ -3,4 +3,6 @@ import java.io.*; // Import file operations
 import java.time.LocalDate; // Import for current data
 
 public class FinalProject{
+  // User input
+  static Scanner input = new Scanner(System.in);
 }
