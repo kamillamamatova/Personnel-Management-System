@@ -9,5 +9,6 @@ public class FinalProject{
   static ArrayList<Person> people = new ArrayList<>();
 
   public static void main(String[] args){
+    System.out.println("\n\t\t\tWelcome to the Personnel Management System\nChoose one of the options:");
   }
 }
