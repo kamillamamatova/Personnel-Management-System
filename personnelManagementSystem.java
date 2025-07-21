@@ -7,4 +7,7 @@ public class FinalProject{
   static Scanner input = new Scanner(System.in);
   // List for all personnel
   static ArrayList<Person> people = new ArrayList<>();
+
+  public static void main(String[] args){
+  }
 }
