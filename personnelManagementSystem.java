@@ -16,6 +16,7 @@ public class FinalProject{
 
     // Main menu loop
     while(running){
+      System.out.println("\n\t\t\tWelcome to the Personnel Management System\nChoose one of the options:");
     }
   }
 }
