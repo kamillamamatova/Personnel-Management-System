@@ -18,6 +18,7 @@ public class FinalProject{
     while(running){
       System.out.println("\n\t\t\tWelcome to the Personnel Management System\nChoose one of the options:");
       System.out.println("1- Enter the information of a faculty");
+      System.out.println("2- Enter the information of a student");
     }
   }
 }
