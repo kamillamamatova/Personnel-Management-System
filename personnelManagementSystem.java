@@ -13,5 +13,9 @@ public class FinalProject{
 
     // Control var for loop
     boolean running = true;
+
+    // Main menu loop
+    while(running){
+    }
   }
 }
