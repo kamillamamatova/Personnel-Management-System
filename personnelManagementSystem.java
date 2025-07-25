@@ -10,5 +10,8 @@ public class FinalProject{
 
   public static void main(String[] args){
     System.out.println("\n\t\t\tWelcome to the Personnel Management System\nChoose one of the options:");
+
+    // Control var for loop
+    boolean running = true;
   }
 }
