@@ -20,6 +20,7 @@ public class FinalProject{
       System.out.println("1- Enter the information of a faculty");
       System.out.println("2- Enter the information of a student");
       System.out.println("3- Print tuition invoice for a student");
+      System.out.println("4- Print faculty information");
     }
   }
 }
