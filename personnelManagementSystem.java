@@ -23,6 +23,7 @@ public class FinalProject{
       System.out.println("4- Print faculty information");
       System.out.println("5- Enter the information of a staff member");
       System.out.println("6- Print the information of a staff member");
+      System.out.println("7- Delete a person");
     }
   }
 }
