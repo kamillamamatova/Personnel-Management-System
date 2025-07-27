@@ -27,6 +27,7 @@ public class FinalProject{
       System.out.println("8- Exit Program");
 
       // User input
+      System.out.print("Enter your selection: ");
     }
   }
 }
