@@ -29,6 +29,9 @@ public class FinalProject{
       // User input
       System.out.print("Enter your selection: ");
       String selection = input.nextLine().trim();
+      switch(selection){
+        case "1": enterFaculty(); break;
+      }
     }
   }
 }
