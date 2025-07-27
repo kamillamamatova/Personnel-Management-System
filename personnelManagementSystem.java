@@ -25,6 +25,8 @@ public class FinalProject{
       System.out.println("6- Print the information of a staff member");
       System.out.println("7- Delete a person");
       System.out.println("8- Exit Program");
+
+      // User input
     }
   }
 }
