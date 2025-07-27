@@ -28,6 +28,7 @@ public class FinalProject{
 
       // User input
       System.out.print("Enter your selection: ");
+      String selection = input.nextLine().trim();
     }
   }
 }
