@@ -42,4 +42,7 @@ public class FinalProject{
       }
     }
   }
+  // Method to enter a new student
+    static void enterStudent(){
+    }
 }
