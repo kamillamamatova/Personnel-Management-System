@@ -44,5 +44,8 @@ public class FinalProject{
   }
   // Method to enter a new student
     static void enterStudent(){
+      // 3 tries
+        for(int i = 0; i < 3; i++){
+        }
     }
 }
