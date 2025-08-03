@@ -35,6 +35,7 @@ public class FinalProject{
         case "3": printStudentInvoice(); break;
         case "4": printFacultyInfo(); break;
         case "5": enterStaff(); break;
+        case "6": printStaffInfo(); break;
       }
     }
   }
