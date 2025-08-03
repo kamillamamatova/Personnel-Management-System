@@ -31,7 +31,8 @@ public class FinalProject{
       String selection = input.nextLine().trim();
       switch(selection){
         case "1": enterFaculty(); break;
-          case "2": enterStudent(); break;
+        case "2": enterStudent(); break;
+        case "3": printStudentInvoice(); break;
       }
     }
   }
