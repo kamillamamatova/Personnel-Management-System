@@ -49,6 +49,7 @@ public class FinalProject{
           System.out.println("Enter a student info:");
           System.out.print("Name: ");
           String name = input.nextLine();
+          System.out.print("ID: ");
         }
     }
 }
