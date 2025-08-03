@@ -38,6 +38,7 @@ public class FinalProject{
         case "6": printStaffInfo(); break;
         case "7": deletePerson(); break;
         case "8": running = false; exitProgram(); break;
+        default: System.out.println("Wrong input, try again.");
       }
     }
   }
