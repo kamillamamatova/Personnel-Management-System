@@ -37,6 +37,7 @@ public class FinalProject{
         case "5": enterStaff(); break;
         case "6": printStaffInfo(); break;
         case "7": deletePerson(); break;
+        case "8": running = false; exitProgram(); break;
       }
     }
   }
