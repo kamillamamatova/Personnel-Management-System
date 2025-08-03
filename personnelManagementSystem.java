@@ -36,6 +36,7 @@ public class FinalProject{
         case "4": printFacultyInfo(); break;
         case "5": enterStaff(); break;
         case "6": printStaffInfo(); break;
+        case "7": deletePerson(); break;
       }
     }
   }
