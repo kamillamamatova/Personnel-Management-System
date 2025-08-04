@@ -63,6 +63,9 @@ public class FinalProject{
             System.out.println("Duplicate ID. Must be a different ID.\nTry again.");
             continue;
           }
+
+          try{
+          }
         }
     }
 }
