@@ -66,6 +66,7 @@ public class FinalProject{
 
           try{
             System.out.print("GPA: ");
+            double gpa = Double.parseDouble(input.nextLine());
           }
         }
     }
