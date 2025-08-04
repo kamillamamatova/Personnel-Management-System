@@ -69,6 +69,7 @@ public class FinalProject{
             double gpa = Double.parseDouble(input.nextLine());
             System.out.print("Credit hours: ");
             int credits = Integer.parseInt(input.nextLine());
+            people.add(new Student(name, id, gpa, credits));
           }
         }
     }
