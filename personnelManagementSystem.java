@@ -65,6 +65,7 @@ public class FinalProject{
           }
 
           try{
+            System.out.print("GPA: ");
           }
         }
     }
