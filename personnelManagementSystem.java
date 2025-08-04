@@ -57,6 +57,10 @@ public class FinalProject{
             System.out.println("Invalid ID Format. Must be LetterLetterDigitDigitDigitDigit");
             continue;
           }
+
+          // Duplicate ID
+          if(findPersonById(id) != null){
+          }
         }
     }
 }
