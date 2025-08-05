@@ -75,6 +75,7 @@ public class FinalProject{
 
           // If parsing error
           catch(Exception e){
+            System.out.println("Invalid, try again.");
           }
         }
     }
