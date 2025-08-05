@@ -72,6 +72,10 @@ public class FinalProject{
             people.add(new Student(name, id, gpa, credits));
             return;
           }
+
+          // If parsing error
+          catch(Exception e){
+          }
         }
     }
 }
