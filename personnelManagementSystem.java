@@ -82,5 +82,8 @@ public class FinalProject{
 
   // Method to enter a new faculty member
   static void enterFaculty(){
+    // 3 tries
+    for(int i = 0; i < 3; i++){
+    }
   }
 }
