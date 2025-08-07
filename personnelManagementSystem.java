@@ -88,6 +88,7 @@ public class FinalProject{
       System.out.print("Name: ");
       String name = input.nextLine();
       System.out.print("ID: ");
+      String id = input.nextLine();
     }
   }
 }
