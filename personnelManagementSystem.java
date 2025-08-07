@@ -79,4 +79,8 @@ public class FinalProject{
           }
         }
     }
+
+  // Method to enter a new faculty member
+  static void enterFaculty(){
+  }
 }
