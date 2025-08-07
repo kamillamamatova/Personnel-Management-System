@@ -84,6 +84,7 @@ public class FinalProject{
   static void enterFaculty(){
     // 3 tries
     for(int i = 0; i < 3; i++){
+      System.out.println("Enter faculty info:");
     }
   }
 }
