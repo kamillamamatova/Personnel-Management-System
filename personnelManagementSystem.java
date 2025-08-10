@@ -98,6 +98,7 @@ public class FinalProject{
 
       // Duplicate ID
       if(findPersonById(id) != null){
+        System.out.println("Duplicate ID. Must be a different ID.\nTry again.");
       }
     }
   }
