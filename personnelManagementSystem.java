@@ -105,6 +105,7 @@ public class FinalProject{
       System.out.print("Department (Mathematics, Engineering, English): ");
       String department = input.nextLine();
       System.out.print("Rank (Professor or Adjunct): ");
+      String rank = input.nextLine();
     }
   }
 }
