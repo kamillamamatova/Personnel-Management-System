@@ -92,6 +92,7 @@ public class FinalProject{
 
       // Validate ID format
       if(!id.matches("[a-zA-Z]{2}\\d{4}")){
+        System.out.println("Invalid ID Format. Must be LetterLetterDigitDigitDigitDigit");
       }
     }
   }
