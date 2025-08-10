@@ -101,6 +101,8 @@ public class FinalProject{
         System.out.println("Duplicate ID. Must be a different ID.\nTry again.");
         continue;
       }
+
+      System.out.print("Department (Mathematics, Engineering, English): ");
     }
   }
 }
