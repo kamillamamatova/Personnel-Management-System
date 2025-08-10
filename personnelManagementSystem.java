@@ -89,6 +89,10 @@ public class FinalProject{
       String name = input.nextLine();
       System.out.print("ID: ");
       String id = input.nextLine();
+
+      // Validate ID format
+      if(!id.matches("[a-zA-Z]{2}\\d{4}")){
+      }
     }
   }
 }
