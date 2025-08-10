@@ -106,6 +106,10 @@ public class FinalProject{
       String department = input.nextLine();
       System.out.print("Rank (Professor or Adjunct): ");
       String rank = input.nextLine();
+
+      // Validates department and rank
+      if(!Arrays.asList("mathematics", "engineering", "english").contains(department.toLowerCase()) || !Arrays.asList("professor", "adjunct").contains(rank.toLowerCase())){
+      }
     }
   }
 }
