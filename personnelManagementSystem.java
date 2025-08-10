@@ -110,6 +110,7 @@ public class FinalProject{
       // Validates department and rank
       if(!Arrays.asList("mathematics", "engineering", "english").contains(department.toLowerCase()) || !Arrays.asList("professor", "adjunct").contains(rank.toLowerCase())){
         System.out.println("Invalid, try again.");
+        continue;
       }
     }
   }
