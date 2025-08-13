@@ -118,4 +118,8 @@ public class FinalProject{
       return;
     }
   }
+
+  // Method to enter a staff member
+  static void enterStaff(){
+  }
 }
