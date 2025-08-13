@@ -123,6 +123,7 @@ public class FinalProject{
   static void enterStaff(){
     // 3 tries
     for(int i = 0; i < 3; i++){
+      System.out.println("Enter staff info:");
     }
   }
 }
