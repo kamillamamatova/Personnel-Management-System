@@ -121,5 +121,8 @@ public class FinalProject{
 
   // Method to enter a staff member
   static void enterStaff(){
+    // 3 tries
+    for(int i = 0; i < 3; i++){
+    }
   }
 }
