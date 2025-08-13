@@ -124,6 +124,7 @@ public class FinalProject{
     // 3 tries
     for(int i = 0; i < 3; i++){
       System.out.println("Enter staff info:");
+      System.out.print("Name: ");
     }
   }
 }
