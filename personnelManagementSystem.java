@@ -112,6 +112,8 @@ public class FinalProject{
         System.out.println("Invalid, try again.");
         continue;
       }
+
+      people.add(new Faculty(name, id, department, rank));
     }
   }
 }
