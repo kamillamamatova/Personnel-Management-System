@@ -114,6 +114,7 @@ public class FinalProject{
       }
 
       people.add(new Faculty(name, id, department, rank));
+      System.out.println("Faculty added!");
     }
   }
 }
