@@ -156,4 +156,8 @@ public class FinalProject{
       return;
     }
   }
+
+  // Method to print a student's tuition invoice
+  static void printStudentInvoice(){
+  }
 }
