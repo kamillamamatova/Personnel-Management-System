@@ -172,4 +172,8 @@ public class FinalProject{
 
     System.out.println("Student with this ID doesn't exist.");
   }
+
+  // Method to print faculty info
+  static void printFacultyInfo(){
+  }
 }
