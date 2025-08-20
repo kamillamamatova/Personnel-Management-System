@@ -151,6 +151,8 @@ public class FinalProject{
         System.out.println("Invalid, try again.");
         continue;
       }
+
+      people.add(new Staff(name, id, department, status));
     }
   }
 }
