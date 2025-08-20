@@ -160,5 +160,6 @@ public class FinalProject{
   // Method to print a student's tuition invoice
   static void printStudentInvoice(){
     System.out.print("Enter the student's ID: ");
+    String id = input.nextLine();
   }
 }
