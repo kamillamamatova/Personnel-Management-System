@@ -153,6 +153,7 @@ public class FinalProject{
       }
 
       people.add(new Staff(name, id, department, status));
+      return;
     }
   }
 }
