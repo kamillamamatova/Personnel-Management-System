@@ -169,5 +169,7 @@ public class FinalProject{
         return;
       }
     }
+
+    System.out.println("Student with this ID doesn't exist.");
   }
 }
