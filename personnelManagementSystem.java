@@ -161,5 +161,9 @@ public class FinalProject{
   static void printStudentInvoice(){
     System.out.print("Enter the student's ID: ");
     String id = input.nextLine();
+
+    // Loops through to find the ID
+    for(Person p : people){
+    }
   }
 }
