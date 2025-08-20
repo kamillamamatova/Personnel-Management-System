@@ -175,5 +175,6 @@ public class FinalProject{
 
   // Method to print faculty info
   static void printFacultyInfo(){
+    System.out.print("Enter the faculty's ID: ");
   }
 }
