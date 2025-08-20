@@ -165,6 +165,7 @@ public class FinalProject{
     // Loops through to find the ID
     for(Person p : people){
       if(p instanceof Student && p.getId().equalsIgnoreCase(id)){
+        p.print();
       }
     }
   }
