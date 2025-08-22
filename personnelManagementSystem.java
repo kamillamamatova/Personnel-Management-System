@@ -177,5 +177,9 @@ public class FinalProject{
   static void printFacultyInfo(){
     System.out.print("Enter the faculty's ID: ");
     String id = input.nextLine();
+
+    // Loops through to find the ID
+    for(Person p : people){
+    }
   }
 }
