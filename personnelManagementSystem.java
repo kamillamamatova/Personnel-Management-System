@@ -182,6 +182,7 @@ public class FinalProject{
     for(Person p : people){
       if(p instanceof Faculty && p.getId().equalsIgnoreCase(id)){
         p.print();
+        return;
       }
     }
   }
