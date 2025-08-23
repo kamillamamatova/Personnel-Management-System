@@ -185,5 +185,6 @@ public class FinalProject{
         return;
       }
     }
+    System.out.println("Faculty with this ID doesn't exist.");
   }
 }
