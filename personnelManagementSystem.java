@@ -191,5 +191,6 @@ public class FinalProject{
   // Method to print staff info
   static void printStaffInfo(){
     System.out.print("Enter the staff's ID: ");
+    String id = input.nextLine();
   }
 }
