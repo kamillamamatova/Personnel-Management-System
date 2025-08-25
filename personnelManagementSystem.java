@@ -202,4 +202,8 @@ public class FinalProject{
     }
     System.out.println("Staff with this ID doesn't exist.");
   }
+
+  // Method to delete a person
+  static void deletePerson(){
+  }
 }
