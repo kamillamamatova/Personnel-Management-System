@@ -200,5 +200,6 @@ public class FinalProject{
         return;
       }
     }
+    System.out.println("Staff with this ID doesn't exist.");
   }
 }
