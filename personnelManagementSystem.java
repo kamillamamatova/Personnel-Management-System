@@ -197,6 +197,7 @@ public class FinalProject{
     for(Person p : people){
       if (p instanceof Staff && p.getId().equalsIgnoreCase(id)){
         p.print();
+        return;
       }
     }
   }
