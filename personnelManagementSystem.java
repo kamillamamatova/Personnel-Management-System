@@ -206,5 +206,6 @@ public class FinalProject{
   // Method to delete a person
   static void deletePerson(){
     System.out.print("Enter ID to delete: ");
+    String id = input.nextLine();
   }
 }
