@@ -192,5 +192,9 @@ public class FinalProject{
   static void printStaffInfo(){
     System.out.print("Enter the staff's ID: ");
     String id = input.nextLine();
+
+    // Loops through to find the ID
+    for(Person p : people) {
+    }
   }
 }
