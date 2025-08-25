@@ -194,7 +194,9 @@ public class FinalProject{
     String id = input.nextLine();
 
     // Loops through to find the ID
-    for(Person p : people) {
+    for(Person p : people){
+      if (p instanceof Staff && p.getId().equalsIgnoreCase(id)){
+      }
     }
   }
 }
