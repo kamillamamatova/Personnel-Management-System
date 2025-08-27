@@ -229,6 +229,7 @@ public class FinalProject{
 
       for(Person p : people){
         if(p instanceof Student){
+          students.add((Student) p);
         }
       }
     }
