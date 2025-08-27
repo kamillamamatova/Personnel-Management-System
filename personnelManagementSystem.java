@@ -221,5 +221,6 @@ public class FinalProject{
 
   // Method to exit the program and option to create a report
   static void exitProgram(){
+    System.out.print("Would you like to create the report? (Y/N): ");
   }
 }
