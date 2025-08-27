@@ -209,6 +209,7 @@ public class FinalProject{
     String id = input.nextLine();
     Iterator<Person> it = people.iterator();
     while(it.hasNext()){
+      Person p = it.next();
     }
   }
 }
