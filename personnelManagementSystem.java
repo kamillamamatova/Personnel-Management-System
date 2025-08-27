@@ -218,4 +218,8 @@ public class FinalProject{
     }
     System.out.println("The person with this ID doesn't exist.");
   }
+
+  // Method to exit the program and option to create a report
+  static void exitProgram(){
+  }
 }
