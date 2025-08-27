@@ -210,6 +210,8 @@ public class FinalProject{
     Iterator<Person> it = people.iterator();
     while(it.hasNext()){
       Person p = it.next();
+      if(p.getId().equalsIgnoreCase(id)){
+      }
     }
   }
 }
