@@ -216,5 +216,6 @@ public class FinalProject{
         return;
       }
     }
+    System.out.println("The person with this ID doesn't exist.");
   }
 }
