@@ -228,6 +228,8 @@ public class FinalProject{
       ArrayList<Student> students = new ArrayList<>();
 
       for(Person p : people){
+        if(p instanceof Student){
+        }
       }
     }
   }
