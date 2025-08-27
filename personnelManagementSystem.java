@@ -211,6 +211,7 @@ public class FinalProject{
     while(it.hasNext()){
       Person p = it.next();
       if(p.getId().equalsIgnoreCase(id)){
+        it.remove();
       }
     }
   }
