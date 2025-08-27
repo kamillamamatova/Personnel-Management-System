@@ -225,6 +225,7 @@ public class FinalProject{
     if(input.nextLine().equalsIgnoreCase("Y")){
       System.out.print("Would you like to sort your students by GPA or name? (Enter 1 for GPA. Enter 2 for name): ");
       String choice = input.nextLine();
+      ArrayList<Student> students = new ArrayList<>();
     }
   }
 }
