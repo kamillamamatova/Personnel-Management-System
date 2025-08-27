@@ -208,5 +208,7 @@ public class FinalProject{
     System.out.print("Enter ID to delete: ");
     String id = input.nextLine();
     Iterator<Person> it = people.iterator();
+    while(it.hasNext()){
+    }
   }
 }
