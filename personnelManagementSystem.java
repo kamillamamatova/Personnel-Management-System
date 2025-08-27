@@ -213,6 +213,7 @@ public class FinalProject{
       if(p.getId().equalsIgnoreCase(id)){
         it.remove();
         System.out.println("Person deleted.");
+        return;
       }
     }
   }
