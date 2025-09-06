@@ -236,6 +236,8 @@ public class FinalProject{
       if(choice.equals("1")){
         students.sort(Collections.reverseOrder());
       }
+      else{
+      }
     }
   }
 }
