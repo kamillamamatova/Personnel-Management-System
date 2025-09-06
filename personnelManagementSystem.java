@@ -237,6 +237,7 @@ public class FinalProject{
         students.sort(Collections.reverseOrder());
       }
       else{
+        students.sort(Comparator.comparing((Student s) -> s.getFullName()));
       }
     }
   }
