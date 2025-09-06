@@ -239,6 +239,9 @@ public class FinalProject{
       else{
         students.sort(Comparator.comparing((Student s) -> s.getFullName()));
       }
+
+      try(PrintWriter out = new PrintWriter("report.txt")){
+      }
     }
   }
 }
