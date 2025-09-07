@@ -242,6 +242,9 @@ public class FinalProject{
 
       try(PrintWriter out = new PrintWriter("report.txt")){
         out.println("Report created on " + LocalDate.now());
+
+        // Faculty members
+        out.println("*******************************\nFaculty Members\n-------------------------");
       }
     }
   }
