@@ -245,6 +245,11 @@ public class FinalProject{
 
         // Faculty members
         out.println("*******************************\nFaculty Members\n-------------------------");
+        for(Person p : people){
+          if(p instanceof Faculty){
+            p.printToFile(out);
+          }
+        }
       }
     }
   }
