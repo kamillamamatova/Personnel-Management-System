@@ -250,6 +250,14 @@ public class FinalProject{
             p.printToFile(out);
           }
         }
+
+        // Staff members
+        out.println("Staff Members\n-------------------");
+        for(Person p : people){
+          if(p instanceof Staff){
+            p.printToFile(out);
+          }
+        }
       }
     }
   }
