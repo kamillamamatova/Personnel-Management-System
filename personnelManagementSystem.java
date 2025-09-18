@@ -258,6 +258,13 @@ public class FinalProject{
             p.printToFile(out);
           }
         }
+
+        // Students
+        out.println("Students (Sorted by GPA)\n--------------------------------------------");
+        for(int i = 0; i < students.size(); i++){
+          out.printf("%d. ", i + 1);
+          students.get(i).printToFile(out);
+        }
       }
     }
   }
